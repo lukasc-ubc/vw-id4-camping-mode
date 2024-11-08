@@ -15,6 +15,7 @@ Many have found work-around solutions, with several internet forum posts ([vwfor
 
 ## The stick solution:
 * Fool the seat pressure sensor using a stick, where the pressure comes from the ceiling. Use the seat height adjuster to raise the seat and exert pressure.
+* Advantages: cheaper, lighter, re-used or found materials.
 
 ### Instructions:
 * Place one container on the drivers' side seat, about 6" or 15 cm forward from the back rest
@@ -31,6 +32,12 @@ Many have found work-around solutions, with several internet forum posts ([vwfor
 
  
 https://github.com/user-attachments/assets/73ebbeca-d940-44d9-8895-fc1d843bceeb
+
+
+
+https://github.com/user-attachments/assets/13449e1e-32d2-4cdb-bfee-5b0c586a9369
+
+
 
 
 
