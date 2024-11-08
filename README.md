@@ -1,4 +1,4 @@
-# vw-id4-camping-mode
+# Volkswagen ID4 Camping Mode
 Upgrade for Volkswagen ID.4: camping mode / dog mode
 
 ## Problem
@@ -12,6 +12,7 @@ Many have found work-around solutions, with several internet forum posts ([vwfor
 * 35 lbs Kettle Bell and seat belt fastened. Drawbacks: heavy, expensive, potential for leaving divots in the seat, safety concerns with driving with a heavy object that could become a projectile.
 * Seat sensor spoofer device. Drawbacks: challenging installation, potential or perceived risks with warrantee or other unexpected failures, expensive.
 * Use the cabin pre-heating scheduling function. Drawbacks: will only warm up the car on those specific times, the temperature will not be constant over time, limited number of scheduling slots.
+* Use an app to modify the 30 minute timeout to 10,000 seconds (5.5 hours, maximum). [vw forum, app discussion](https://www.vwidtalk.com/threads/camping-mode-unlocked.16634/?post_id=290138&nested_view=1&sortby=oldest#post-290138)
 
 ## The stick solution:
 * Fool the seat pressure sensor using a stick, where the pressure comes from the ceiling. Use the seat height adjuster to raise the seat and exert pressure.
@@ -30,10 +31,13 @@ Many have found work-around solutions, with several internet forum posts ([vwfor
 * a stick (2x2", 2x4", anything from the forest) that is about 39" or 1 m long
 * two objects such as plastic food storage containers, that are smooth on the bottom; smoothness and size are important parameters so that you do not put divots in the seat
 
+
+![IMG_0094](https://github.com/user-attachments/assets/4c2f4de1-5026-4484-9285-83d9db740256)
+![IMG_0095](https://github.com/user-attachments/assets/cfd848f3-ac75-4e4e-a45c-799d64b17c14)
+![IMG_0096](https://github.com/user-attachments/assets/61b5a7cd-c1d2-4a69-ad9c-d43d362edb62)
+
  
 https://github.com/user-attachments/assets/73ebbeca-d940-44d9-8895-fc1d843bceeb
-
-
 
 https://github.com/user-attachments/assets/13449e1e-32d2-4cdb-bfee-5b0c586a9369
 
