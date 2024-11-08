@@ -31,18 +31,13 @@ Many have found work-around solutions, with several internet forum posts ([vwfor
 * a stick (2x2", 2x4", anything from the forest) that is about 39" or 1 m long
 * two objects such as plastic food storage containers, that are smooth on the bottom; smoothness and size are important parameters so that you do not put divots in the seat
 
-
-![IMG_0094](https://github.com/user-attachments/assets/4c2f4de1-5026-4484-9285-83d9db740256)
-![IMG_0095](https://github.com/user-attachments/assets/cfd848f3-ac75-4e4e-a45c-799d64b17c14)
-![IMG_0096](https://github.com/user-attachments/assets/61b5a7cd-c1d2-4a69-ad9c-d43d362edb62)
-
  
 https://github.com/user-attachments/assets/73ebbeca-d940-44d9-8895-fc1d843bceeb
 
 https://github.com/user-attachments/assets/13449e1e-32d2-4cdb-bfee-5b0c586a9369
 
 
-
-
-
+![IMG_0094](https://github.com/user-attachments/assets/4c2f4de1-5026-4484-9285-83d9db740256)
+![IMG_0095](https://github.com/user-attachments/assets/cfd848f3-ac75-4e4e-a45c-799d64b17c14)
+![IMG_0096](https://github.com/user-attachments/assets/61b5a7cd-c1d2-4a69-ad9c-d43d362edb62)
 
